@@ -77,7 +77,6 @@ function addNewArticle() {
   inputs.appendChild(tr);
 }
 
-function changeCount() {}
 
 function removeArticle(e) {
   e.parentElement.remove();
